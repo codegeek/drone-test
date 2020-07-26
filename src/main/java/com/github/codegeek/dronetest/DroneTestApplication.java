@@ -1,4 +1,4 @@
-package net.unraider.dronetest;
+package com.github.codegeek.dronetest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

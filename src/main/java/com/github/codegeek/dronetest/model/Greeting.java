@@ -1,4 +1,4 @@
-package net.unraider.dronetest.model;
+package com.github.codegeek.dronetest.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;

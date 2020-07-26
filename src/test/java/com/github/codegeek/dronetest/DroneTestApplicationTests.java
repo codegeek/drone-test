@@ -1,4 +1,4 @@
-package net.unraider.dronetest;
+package com.github.codegeek.dronetest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package net.unraider.dronetest.controllers;
+package com.github.codegeek.dronetest.controllers;
 
-import net.unraider.dronetest.model.Greeting;
+import com.github.codegeek.dronetest.model.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

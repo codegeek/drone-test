@@ -1,7 +1,7 @@
-package net.unraider.dronetest.controllers;
+package com.github.codegeek.dronetest.controllers;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import net.unraider.dronetest.model.Greeting;
+import com.github.codegeek.dronetest.model.Greeting;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
