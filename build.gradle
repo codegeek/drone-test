@@ -5,7 +5,7 @@ plugins {
 	id 'jacoco'
 }
 
-group = 'net.unraider'
+group = 'com.github.codegeek'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
