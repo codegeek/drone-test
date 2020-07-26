@@ -1,0 +1,8 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: build
+    image: gradle:6.5.1-jdk11
+    commands:
+      - gradle build
