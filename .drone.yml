@@ -6,3 +6,9 @@ steps:
     image: gradle:6.5.1-jdk11
     commands:
       - gradle build
+
+  - name: coverage
+    image: plugins/codecov
+    settings:
+      token:
+        from_secret: codecov-token
